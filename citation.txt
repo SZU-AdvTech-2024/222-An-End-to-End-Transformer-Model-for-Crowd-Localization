@@ -1,0 +1,8 @@
+@inproceedings{REPO222,
+    author = "Liang, Dingkang and Xu, Wei and Bai, Xiang",
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "38--54",
+    title = "{An end-to-end transformer model for crowd localization}",
+    year = "2022"
+}
